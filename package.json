@@ -4,7 +4,7 @@
   "files": ["components", "lib", "index.ts"],
     "exports": {
   ".": {
-    "import": "./index.ts"
+    "import": "./src/index.ts"
   }
 },
   "scripts": {
