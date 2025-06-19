@@ -1,7 +1,7 @@
 {
   "name": "@my/ui",
   "version": "0.1.0",
-  "files": ["components", "lib", "index.ts"],
+  "files": ["src", "components", "lib"],
   "exports": {
     ".": {
       "import": "./index.ts"
